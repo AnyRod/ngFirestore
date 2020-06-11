@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularfirestore-64778": {
+      "hosting": {
+        "angularFirestore": [
+          "angularfirestore-64778"
+        ]
+      }
+    }
+  }
+}
